@@ -6,3 +6,51 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
+.bob,
+.bit,
+.rat {
+  color: black;
+  font-weight: 500;
+  font-size: 20px;
+}
+
+.title  {
+    text-align: center;
+    color: rgba(17, 18, 17, 0.926);
+    background-color: rgb(195, 179, 179);
+    font-weight: 700;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 35px;  
+        }
+.heading {
+    color: rgba(39, 46, 33, 0.926);
+    background-color: rgb(137, 170, 175);
+    font-weight: 700;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    
+}
+.ingredients,
+.steps,
+.Optional  {
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    text-align: center;
+}
+.subheading,
+.subhead,
+.sub {
+    font-size:25px ;
+    font-weight: 700;
+    text-align: left;
+    color: rgba(39, 46, 33, 0.926);
+    background-color: rgb(137, 170, 175);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.image {
+    height: auto;
+    width: auto;
+    text-align: center;
+}
